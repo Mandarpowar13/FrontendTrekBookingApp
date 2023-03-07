@@ -1,0 +1,8 @@
+.page {
+    position: absolute; 
+    top: -626px; 
+    left: 1432px; 
+    width: 1440px; 
+    height: 900px; 
+    background-color: rgb(103, 66, 39); /* tertiary2-500 */
+  }
